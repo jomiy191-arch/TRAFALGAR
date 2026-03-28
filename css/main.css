@@ -209,7 +209,7 @@ body {
 .divider-line {
     width: 56px;
     height: 2px;
-    background: #c08181;
+    background: #000;
     margin: 20px auto;
     border-radius: 5px;
 }
