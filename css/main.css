@@ -458,7 +458,7 @@ body {
     display: block;
     width: 70px;
     height: 2px;
-    background: #e04b4b;
+    background: #000;
     margin-top: 15px;
     border-radius: 3px;
     transition: width 0.4s ease;
