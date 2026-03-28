@@ -499,7 +499,7 @@ body {
 
 .article__btn:active {
     transform: scale(0.95);
-    box-shadow: 0 5px 15px rgba(69, 143, 246, 0.25);
+    box-shadow: 0 5px 15px rgba(83, 112, 151, 0.25);
 }
 
 .article__link {
