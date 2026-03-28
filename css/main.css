@@ -75,7 +75,7 @@ body {
 
 .header__link.active::after {
   width: 100%;
-  background-color: #3113b4;
+  background-color: #e8e6f4;
 }
 
 .header__link:hover {
