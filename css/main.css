@@ -339,7 +339,7 @@ body {
 .wrapper__btn:active {
     transform: scale(0.95);
     color: #fff;
-    box-shadow: 0 4px 10px rgba(0, 123, 255, 0.25);
+    box-shadow: 0 4px 10px rgba(102, 159, 219, 0.25);
 }
 
 .wrapper__link {
