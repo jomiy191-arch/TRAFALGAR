@@ -524,7 +524,7 @@ body {
 
 .article-container img:hover {
     transform: scale(1.05) rotate(1deg);
-    box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+    box-shadow: 0 20px 40px rgba(135, 77, 77, 0.15);
 }
 
 
