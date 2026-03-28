@@ -173,7 +173,7 @@ body {
 .hero__btn:hover {
     background: linear-gradient(135deg, #2f6cd9, #5699f6);
     transform: translateY(-4px) scale(1.05);
-    box-shadow: 0 10px 20px rgba(12, 16, 22, 0.5);
+    box-shadow: 0 10px 20px rgba(47, 108, 217, 0.5);
 }
 
 .hero__btn:active {
