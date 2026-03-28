@@ -632,7 +632,7 @@ body {
   background: #d47b7b;
   padding: 25px;
   border-radius: 15px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(238, 113, 113, 0.1);
   text-align: left;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   overflow: hidden;
