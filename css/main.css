@@ -178,7 +178,7 @@ body {
 
 .hero__btn:active {
     transform: translateY(0) scale(0.98);
-    box-shadow: 0 4px 10px rgba(47, 108, 217, 0.4);
+    box-shadow: 0 4px 10px rgba(139, 164, 209, 0.4);
 }
 
 .hero__image img {
