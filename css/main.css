@@ -548,7 +548,7 @@ body {
 .line {
   width: 56px;
   height: 2px;
-  background: #fff;
+  background: #e95555;
   margin: 20px auto;
   border-radius: 5px;
 }
