@@ -261,7 +261,7 @@ body {
     left: -150px;
     width: 600px;
     height: 600px;
-    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    background: linear-gradient(135deg, #8ebbe1, #00f2fe);
     transform: rotate(45deg);
     opacity: 0;
     transition: 0.5s;
